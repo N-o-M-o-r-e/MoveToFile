@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test11</string>
+    <string name="sort_time">Sort Time</string>
+    <string name="sort_name">Sort Name</string>
+    <string name="sort_size">Sort Size</string>
+    <string name="rename">Rename</string>
+</resources>
